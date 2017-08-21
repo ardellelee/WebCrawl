@@ -1,0 +1,37 @@
+################## Top 10 topics found from reviews
+
+[(0,
+  u'0.064*"food" + 0.048*"service" + 0.031*"good" + 0.029*"great" + 0.021*"staff" + 0.016*"restaurant" + 0.014*"place" + 0.013*"excellent" + 0.013*"friendly" + 0.011*"experience"'),
+ (1,
+  u'0.048*"food" + 0.038*"chicken" + 0.025*"place" + 0.024*"rice" + 0.023*"singapore" + 0.018*"indian" + 0.017*"best" + 0.011*"queue" + 0.011*"good" + 0.010*"restaurant"'),
+ (2,
+  u'0.032*"beer" + 0.032*"cocktails" + 0.031*"tea" + 0.019*"hawker" + 0.019*"cocktail" + 0.016*"afternoon" + 0.015*"drink" + 0.010*"high" + 0.010*"singapore" + 0.008*"noisy"'),
+ (3,
+  u'0.020*"we" + 0.019*"restaurant" + 0.018*"went" + 0.017*"table" + 0.013*"dinner" + 0.012*"time" + 0.010*"came" + 0.009*"night" + 0.008*"got" + 0.008*"reservation"'),
+ (4,
+  u'0.024*"restaurant" + 0.019*"food" + 0.018*"singapore" + 0.012*"star" + 0.012*"michelin" + 0.011*"restaurants" + 0.011*"years" + 0.010*"quality" + 0.010*"times" + 0.008*"time"'),
+ (5,
+  u'0.038*"crab" + 0.031*"food" + 0.031*"good" + 0.016*"seafood" + 0.013*"chilli" + 0.011*"fresh" + 0.009*"great" + 0.009*"chili" + 0.009*"dishes" + 0.008*"crabs"'),
+ (6,
+  u'0.023*"dim" + 0.022*"sum" + 0.015*"sit" + 0.009*"banana" + 0.009*"music" + 0.008*"poor" + 0.008*"carte" + 0.008*"orders" + 0.007*"watch" + 0.006*"tables"'),
+ (7,
+  u'0.030*"bay" + 0.021*"marina" + 0.017*"chinatown" + 0.015*"burger" + 0.014*"slow" + 0.010*"gardens" + 0.009*"cool" + 0.008*"sands" + 0.008*"relaxing" + 0.007*"located"'),
+ (8,
+  u'0.033*"good" + 0.033*"place" + 0.027*"food" + 0.025*"great" + 0.024*"view" + 0.020*"bar" + 0.018*"nice" + 0.015*"pepper" + 0.015*"singapore" + 0.013*"drinks"'),
+ (9,
+  u'0.019*"pork" + 0.018*"ordered" + 0.014*"chicken" + 0.013*"white" + 0.013*"beef" + 0.013*"duck" + 0.012*"lunch" + 0.012*"pasta" + 0.012*"meat" + 0.009*"fish"')]
+
+
+
+#################### Some findings for reference
+
+Insights in topics
+  Topic 0: Some good comments on restaurants. This shows that customers tend to publish positive reviews on their experience.
+  Topic 1: Chicken may be a popular indian food in singapore. Good restaurant usually have queues.
+  Topic 2: Popular drinks in singapore: beer, cocktails, afternoon tea. Atmosphere in bars are usually high and noisy.
+  Topic 3: Make reservations for dinner.
+  Topic 4: Michelin star restaurants are with good quality.
+  Topic 5: Seafood is popular, especially chilli crab.
+  Topic 7: Some popular areas: marina bay sands, chinatown, gardens by the bay
+  Topic 8: Enjoy bar with good views
+  Topic 9: Popular lunch food: pork, chicken, beef, duck, fish, meat, pasta
